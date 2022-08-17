@@ -21,7 +21,7 @@ p {
 
 body {
    
-    background-image: linear-gradient(black, white, white);
+   background-color: solid #555, wheat;
 }
 h4 {
     text-align: center;
